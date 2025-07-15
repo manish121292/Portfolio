@@ -1,0 +1,15 @@
+{
+  "name": "manish-sarabu-portfolio",
+  "version": "1.0.0",
+  "description": "SAP HCM & SuccessFactors Specialist Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["portfolio", "sap", "hcm", "successfactors", "consultant"],
+  "author": "Manish Sarabu",
+  "license": "MIT",
+  "type": "module"
+}
